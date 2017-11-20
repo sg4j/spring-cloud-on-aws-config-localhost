@@ -1,1 +1,1 @@
-config-server-url=http://localhost:8762
+eureka-url=http://localhost:8761
